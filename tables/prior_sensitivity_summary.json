@@ -1,0 +1,272 @@
+[
+  {
+    "prior_setting": "baseline",
+    "quantity": "B10_cycles",
+    "delta_T": 20.0,
+    "mission_cycles": NaN,
+    "median": 15411.104687693367,
+    "q025": 5438.165645140409,
+    "q975": 40510.1939810769,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "B10_cycles",
+    "delta_T": 25.0,
+    "mission_cycles": NaN,
+    "median": 8890.920648555079,
+    "q025": 3547.367640262164,
+    "q975": 20774.074733561847,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "B10_cycles",
+    "delta_T": 35.0,
+    "mission_cycles": NaN,
+    "median": 3856.15686950761,
+    "q025": 1857.315542783925,
+    "q975": 7605.3486861511565,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "Survival_probability",
+    "delta_T": 20.0,
+    "mission_cycles": 5000.0,
+    "median": 0.9956981376555369,
+    "q025": 0.9196060420834002,
+    "q975": 0.9998414810402014,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "Survival_probability",
+    "delta_T": 20.0,
+    "mission_cycles": 10000.0,
+    "median": 0.9695259674859104,
+    "q025": 0.5909811636786644,
+    "q975": 0.99854521517838,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "Survival_probability",
+    "delta_T": 25.0,
+    "mission_cycles": 5000.0,
+    "median": 0.9796269804783353,
+    "q025": 0.7771727063001463,
+    "q975": 0.9987158733479946,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "Survival_probability",
+    "delta_T": 25.0,
+    "mission_cycles": 10000.0,
+    "median": 0.862012334459401,
+    "q025": 0.18225697817565578,
+    "q975": 0.9891404657107198,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "Survival_probability",
+    "delta_T": 35.0,
+    "mission_cycles": 5000.0,
+    "median": 0.8015574013680333,
+    "q025": 0.23622519833198136,
+    "q975": 0.9720368959874337,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "baseline",
+    "quantity": "Survival_probability",
+    "delta_T": 35.0,
+    "mission_cycles": 10000.0,
+    "median": 0.19720496643534324,
+    "q025": 1.2228794753280121e-05,
+    "q975": 0.7899965729905633,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "B10_cycles",
+    "delta_T": 20.0,
+    "mission_cycles": NaN,
+    "median": 14523.877483867955,
+    "q025": 5084.185964665572,
+    "q975": 47057.29953697928,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "B10_cycles",
+    "delta_T": 25.0,
+    "mission_cycles": NaN,
+    "median": 8397.374092591566,
+    "q025": 3376.6423796669774,
+    "q975": 23628.765164184864,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "B10_cycles",
+    "delta_T": 35.0,
+    "mission_cycles": NaN,
+    "median": 3712.356488689519,
+    "q025": 1790.4254722262888,
+    "q975": 8316.037522984796,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "Survival_probability",
+    "delta_T": 20.0,
+    "mission_cycles": 5000.0,
+    "median": 0.9950420040255235,
+    "q025": 0.904138023431256,
+    "q975": 0.999867072316023,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "Survival_probability",
+    "delta_T": 20.0,
+    "mission_cycles": 10000.0,
+    "median": 0.9650281904689685,
+    "q025": 0.531645425326746,
+    "q975": 0.9988868254776888,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "Survival_probability",
+    "delta_T": 25.0,
+    "mission_cycles": 5000.0,
+    "median": 0.9767098285573604,
+    "q025": 0.7382206567516688,
+    "q975": 0.9989544620663502,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "Survival_probability",
+    "delta_T": 25.0,
+    "mission_cycles": 10000.0,
+    "median": 0.84202580576599,
+    "q025": 0.12727146017167776,
+    "q975": 0.9910758341878202,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "Survival_probability",
+    "delta_T": 35.0,
+    "mission_cycles": 5000.0,
+    "median": 0.7816181696218821,
+    "q025": 0.1841365539639275,
+    "q975": 0.9760922687765885,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "diffuse",
+    "quantity": "Survival_probability",
+    "delta_T": 35.0,
+    "mission_cycles": 10000.0,
+    "median": 0.17241560442395945,
+    "q025": 3.2108858370517785e-06,
+    "q975": 0.8388787404601628,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "B10_cycles",
+    "delta_T": 20.0,
+    "mission_cycles": NaN,
+    "median": 15382.47326534523,
+    "q025": 6538.014187978732,
+    "q975": 36711.139249603155,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "B10_cycles",
+    "delta_T": 25.0,
+    "mission_cycles": NaN,
+    "median": 8879.710816109307,
+    "q025": 4182.48732444314,
+    "q975": 19035.00896498376,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "B10_cycles",
+    "delta_T": 35.0,
+    "mission_cycles": NaN,
+    "median": 3864.069065241184,
+    "q025": 2090.102691146268,
+    "q975": 7065.354675764286,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "Survival_probability",
+    "delta_T": 20.0,
+    "mission_cycles": 5000.0,
+    "median": 0.9957875640054703,
+    "q025": 0.9490496693996796,
+    "q975": 0.999803463101977,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "Survival_probability",
+    "delta_T": 20.0,
+    "mission_cycles": 10000.0,
+    "median": 0.9701201172973146,
+    "q025": 0.7254985813525076,
+    "q975": 0.9979726424989133,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "Survival_probability",
+    "delta_T": 25.0,
+    "mission_cycles": 5000.0,
+    "median": 0.9798965550648437,
+    "q025": 0.8414881364329284,
+    "q975": 0.9983877717279601,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "Survival_probability",
+    "delta_T": 25.0,
+    "mission_cycles": 10000.0,
+    "median": 0.8619706246898814,
+    "q025": 0.30414002760694864,
+    "q975": 0.9847683105095818,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "Survival_probability",
+    "delta_T": 35.0,
+    "mission_cycles": 5000.0,
+    "median": 0.8022882888934463,
+    "q025": 0.3254802820118244,
+    "q975": 0.964996936692336,
+    "uncertainty_method": "MCMC posterior"
+  },
+  {
+    "prior_setting": "conservative",
+    "quantity": "Survival_probability",
+    "delta_T": 35.0,
+    "mission_cycles": 10000.0,
+    "median": 0.19419679125887737,
+    "q025": 0.00019352478486444342,
+    "q975": 0.7494448173781079,
+    "uncertainty_method": "MCMC posterior"
+  }
+]

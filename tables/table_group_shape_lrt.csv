@@ -1,0 +1,2 @@
+loglik_common_k,loglik_pergroup_k,lr_stat,df,p_value,common_k_hat,alpha,conclusion
+-147.07317283941873,-146.42719815881787,1.2919493612017163,2,0.5241514128391598,3.593674534856783,0.05,"No significant evidence against a common Weibull shape among the fully failed groups (LRT, df=2, p=0.524); common k retained for parsimony and identifiability."

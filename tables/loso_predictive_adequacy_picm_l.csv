@@ -1,0 +1,7 @@
+model,uncertainty_method,held_out_stress,observed_failed,observed_total,observed_failure_fraction,predicted_failure_fraction,predicted_pi_2_5,predicted_pi_97_5,absolute_error,coverage_95ppi
+PICM-L,MCMC posterior predictive,25.0,0,8,0.0,0.0,0.0,0.0,0.0,True
+PICM-L,MCMC posterior predictive,50.0,0,8,0.0,0.0,0.0,0.125,0.0,True
+PICM-L,MCMC posterior predictive,75.0,5,8,0.625,0.25,0.0,0.625,0.375,True
+PICM-L,MCMC posterior predictive,100.0,8,8,1.0,1.0,0.75,1.0,0.0,True
+PICM-L,MCMC posterior predictive,125.0,8,8,1.0,1.0,0.75,1.0,0.0,True
+PICM-L,MCMC posterior predictive,150.0,8,8,1.0,0.75,0.25,1.0,0.25,True

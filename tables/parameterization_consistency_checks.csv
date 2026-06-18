@@ -1,0 +1,7 @@
+check_name,passed,value,threshold,detail
+B10_formula_consistency,True,4.547473508864641e-13,1e-09,b10_use_from_theta equals Weibull quantile form at p=0.1.
+Weibull_scale_characteristic_life,True,0.0,1e-12,Survival at y=eta should equal exp(-1).
+Weibull_median_consistency,True,0.0,1e-12,weibull_median equals Weibull p=0.5 quantile.
+Stress_life_monotonicity_posterior,True,1.0,0.95,Proportion of posterior draws with non-increasing life as DeltaT increases.
+Censoring_likelihood_contribution,True,7.771561172376096e-16,1e-09,Pointwise failure and right-censor terms match analytic forms.
+Lognormal_AFT_median_mapping,True,0.0,1e-12,lognormal_b_quantile(p=0.5) equals exp(mu).

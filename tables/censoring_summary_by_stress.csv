@@ -1,0 +1,7 @@
+delta_T,sample_size,failed_count,censored_count,censoring_fraction,max_observed_cycles,fully_censored_group
+25.0,8,0,8,1.0,533.3333333333334,True
+50.0,8,0,8,1.0,533.3333333333334,True
+75.0,8,5,3,0.375,1066.6666666666667,False
+100.0,8,8,0,0.0,939.3333333333334,False
+125.0,8,8,0,0.0,530.3333333333334,False
+150.0,8,8,0,0.0,287.0,False

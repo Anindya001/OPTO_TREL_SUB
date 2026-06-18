@@ -1,0 +1,22 @@
+check_name,value,expected,tolerance,passed,detail
+MLE_k,2.988247722409055,2.98824797,0.001,True,
+MLE_beta1,2.435847453312214,2.43584622,0.001,True,
+MLE_beta0,17.661960284188186,17.6619545,0.001,True,
+MLE_B10_35C,3822.27935963489,3822.3,2.0,True,
+CSV_100C_max_hours,2818.0,2818.0,0.1,True,
+failure_only_RMSE_log_cycles,0.4041044511903653,0.404,0.01,True,
+failure_only_pseudo_R2,0.5340494837754228,0.534,0.01,True,
+group_k_100C,2.790994010402513,2.79,0.05,True,
+group_k_125C,3.873269864909396,3.87,0.05,True,
+group_k_150C,4.323342720879897,4.32,0.05,True,
+high_deltaT_B10_175C,75.81202903027332,75.8,0.5,True,
+high_deltaT_B10_200C,54.76190958604257,54.8,0.5,True,
+firth_agrees_with_mle,0.01797879853383577,0.0,0.05,True,|firth_k - mle_k|
+scatter_within_p025_p975,True,True,,True,Headline 100 C containment uses no tolerance.
+group_shape_lrt_pvalue_finite,0.5241514128391598,True,,True,Common-k likelihood-ratio p-value must be finite and bounded.
+mcmc_all_chains_in_band,"0.215150, 0.239250, 0.248050",True,,True,"Post-adaptation sampling acceptance in [0.20, 0.40]."
+mcmc_rhat_max_lt_1p01,1.0006139875151996,True,,True,
+mcmc_ess_min_gt_2000,3828.134183728973,True,,True,
+bayes_B10_35C_median,3845.7577195717117,3842.0,60.0,True,
+duration_25C_years,3.0043716051991134,3.0,0.6,True,
+duration_20C_years,5.201240220431014,5.2,0.8,True,

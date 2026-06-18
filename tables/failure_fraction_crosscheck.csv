@@ -1,0 +1,7 @@
+delta_T,observed_failed,observed_total,observed_failure_fraction,predicted_median_failure_fraction,predicted_pi_2.5%,predicted_pi_97.5%,observed_within_95ppi
+25,0,8,0.0,0.0,0.0,0.0,True
+50,0,8,0.0,0.0,0.0,0.125,True
+75,5,8,0.625,0.375,0.125,0.875,True
+100,8,8,1.0,1.0,0.75,1.0,True
+125,8,8,1.0,1.0,0.75,1.0,True
+150,8,8,1.0,0.875,0.5,1.0,True

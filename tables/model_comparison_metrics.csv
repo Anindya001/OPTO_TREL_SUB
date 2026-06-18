@@ -1,0 +1,4 @@
+model,Uncertainty method,logLik,n_params,AIC,BIC,WAIC_PICM_L_only,p_WAIC_PICM_L_only,DIC_PICM_L_supplementary,Criteria comparability note
+Weibull PICM-L (primary),MCMC posterior sampling,-188.17036922879612,3,382.34073845759224,387.9543414903159,381.2904799585593,2.128464872611781,381.6405369613325,AIC/BIC comparable across listed models; WAIC/DIC reported for PICM-L only.
+Weibull PICM-C (sensitivity),Penalized fit + Laplace approximation,-187.58823919938033,4,383.17647839876065,390.66128244239223,,,,AIC/BIC comparable across listed models; WAIC/DIC reported for PICM-L only.
+Lognormal AFT (sensitivity),MLE fit + Laplace approximation,-187.5936122686894,3,381.1872245373788,386.8008275701025,,,,AIC/BIC comparable across listed models; WAIC/DIC reported for PICM-L only.

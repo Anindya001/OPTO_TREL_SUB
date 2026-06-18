@@ -1,0 +1,2 @@
+metric_scope,n_points,rmse_log_cycles,multiplicative_rmse,pseudo_R2,warning
+all_observed_failures,29,0.4041044511903653,1.4979604025341757,0.5340494837754228,Descriptive over observed failures only; NOT a primary metric for right-censored inference.

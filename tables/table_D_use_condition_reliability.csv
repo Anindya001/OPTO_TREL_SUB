@@ -1,0 +1,6 @@
+method,delta_T_use,B10_cycles_estimate,lower_95,upper_95,interval_priority,interval_note,Firth_ridge_trigger_count,Firth_rejected_hessian_count
+Bayesian posterior (ETI),35.0,3845.7577195717117,1895.836154477829,7610.11173634284,1,Primary uncertainty interval.,,
+Profile likelihood (Bartlett-corrected),35.0,3822.2793596348893,1780.35334439425,8215.631044631695,2,Primary frequentist uncertainty interval.,,
+MLE delta-method,35.0,3822.27935963489,901.9518047457263,6742.606914524054,3,Asymptotic reference interval.,,
+Profile likelihood (uncorrected),35.0,3822.2793596348893,1762.2888998964943,8300.842522206167,4,Diagnostic profile interval; Bartlett-corrected profile is preferred.,,
+Firth point estimate (consistency check),35.0,3829.017157802784,,,5,"Diagnostic only; covariance ridge-stabilised, not used for inference.",980.0,368.0

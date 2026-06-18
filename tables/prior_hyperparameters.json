@@ -1,0 +1,41 @@
+[
+  {
+    "prior_setting": "baseline",
+    "beta0_prior_mean": 18.0,
+    "beta0_prior_sd": 4.0,
+    "beta1_prior_mean": 2.5,
+    "beta1_prior_sd": 0.8,
+    "beta1_trunc_lower": 0.5,
+    "k_gamma_shape": 9.0,
+    "k_gamma_rate": 3.0,
+    "k_trunc_lower": 1.0,
+    "beta2_prior_sd": 0.5,
+    "k_prior_note": "Gamma(shape,rate) truncated to k>k_trunc_lower"
+  },
+  {
+    "prior_setting": "diffuse",
+    "beta0_prior_mean": 18.0,
+    "beta0_prior_sd": 8.0,
+    "beta1_prior_mean": 2.5,
+    "beta1_prior_sd": 1.6,
+    "beta1_trunc_lower": 0.5,
+    "k_gamma_shape": 6.0,
+    "k_gamma_rate": 2.0,
+    "k_trunc_lower": 1.0,
+    "beta2_prior_sd": 0.9,
+    "k_prior_note": "Gamma(shape,rate) truncated to k>k_trunc_lower"
+  },
+  {
+    "prior_setting": "conservative",
+    "beta0_prior_mean": 18.0,
+    "beta0_prior_sd": 2.5,
+    "beta1_prior_mean": 2.5,
+    "beta1_prior_sd": 0.5,
+    "beta1_trunc_lower": 0.5,
+    "k_gamma_shape": 12.0,
+    "k_gamma_rate": 4.0,
+    "k_trunc_lower": 1.0,
+    "beta2_prior_sd": 0.3,
+    "k_prior_note": "Gamma(shape,rate) truncated to k>k_trunc_lower"
+  }
+]

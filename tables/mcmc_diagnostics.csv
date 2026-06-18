@@ -1,0 +1,10 @@
+diagnostic_type,name,value,basis,warn
+chain_acceptance,chain_1,0.21515,post_adaptation_sampling_phase,False
+chain_acceptance,chain_2,0.23925,post_adaptation_sampling_phase,False
+chain_acceptance,chain_3,0.24805,post_adaptation_sampling_phase,False
+rhat,k,1.0006139875151996,retained_sampling_phase,False
+ess,k,4339.828957017958,retained_sampling_phase,False
+rhat,beta1,1.0000790590944844,retained_sampling_phase,False
+ess,beta1,3833.357882284893,retained_sampling_phase,False
+rhat,beta0,1.0000888127821872,retained_sampling_phase,False
+ess,beta0,3828.134183728973,retained_sampling_phase,False
