@@ -1,0 +1,19 @@
+{
+  "packages": {
+    "matplotlib": "3.10.8",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "sha256": {
+    "data/optocoupler_ttf_unit_level.csv": "034e3c9cdc4d029187572a6b4dbe9547b39821a304fb249982b4e1f77f7ab5a2",
+    "draws/baseline_chains.npy": "bae0fea04f5791cde79ef38bed34c52632430b01d605494af2df857321a92c96",
+    "draws/conservative_chains.npy": "ebde995f860aa0bc2d34b4cde415a2746acff01bca4ce878a01fde3963fdd389",
+    "draws/curved_laplace.npy": "5452f94616579ba110991d2a11cbd41fa14b436cd7153e9b76fe0edc7aba79f2",
+    "draws/diffuse_chains.npy": "fd413b73279dad984cc8777a5b14c33031bab0329f6fadfed383d97f3e5951ca",
+    "draws/lognormal_laplace.npy": "86e5595388b2a690694109715f8963c018bff08659066be61e7316ab3fa63a77",
+    "draws/relaxed_chains.npy": "513d9669f797bee23cfa8cfd1468b990a9e8e17b1645d4c6cc26809b2d7956ac"
+  }
+}

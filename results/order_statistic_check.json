@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "expected_ratio": 4.101604482405284,
+      "probability_ratio_at_least_observed": 0.360973108092581,
+      "shape": 2.791
+    },
+    {
+      "expected_ratio": 3.698941707251457,
+      "probability_ratio_at_least_observed": 0.29129560206799476,
+      "shape": 2.988
+    }
+  ],
+  "method": "Exact order-statistic CDF with numerical tail integration",
+  "n": 8,
+  "observed_ratio": 3.9138888888888888
+}

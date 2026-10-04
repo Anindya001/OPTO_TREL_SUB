@@ -1,0 +1,48 @@
+{
+  "scope": "In-sample inclusion only; not out-of-sample calibration.",
+  "source_sha256": {
+    "baseline_draws": "bae0fea04f5791cde79ef38bed34c52632430b01d605494af2df857321a92c96",
+    "data": "034e3c9cdc4d029187572a6b4dbe9547b39821a304fb249982b4e1f77f7ab5a2"
+  },
+  "stress_groups": [
+    {
+      "delta_T_C": 75.0,
+      "inside_median_credible": 0,
+      "inside_plotted_median_credible": 0,
+      "inside_plotted_predictive": 5,
+      "inside_predictive": 5,
+      "observed_failures": 5
+    },
+    {
+      "delta_T_C": 100.0,
+      "inside_median_credible": 0,
+      "inside_plotted_median_credible": 0,
+      "inside_plotted_predictive": 8,
+      "inside_predictive": 8,
+      "observed_failures": 8
+    },
+    {
+      "delta_T_C": 125.0,
+      "inside_median_credible": 0,
+      "inside_plotted_median_credible": 0,
+      "inside_plotted_predictive": 8,
+      "inside_predictive": 8,
+      "observed_failures": 8
+    },
+    {
+      "delta_T_C": 150.0,
+      "inside_median_credible": 4,
+      "inside_plotted_median_credible": 4,
+      "inside_plotted_predictive": 8,
+      "inside_predictive": 8,
+      "observed_failures": 8
+    }
+  ],
+  "totals": {
+    "inside_median_credible": 4,
+    "inside_plotted_median_credible": 4,
+    "inside_plotted_predictive": 29,
+    "inside_predictive": 29,
+    "observed_failures": 29
+  }
+}

@@ -1,0 +1,7 @@
+model,uncertainty_method,held_out_stress,observed_failed,observed_total,observed_failure_fraction,predicted_failure_fraction,predicted_pi_2_5,predicted_pi_97_5,absolute_error,coverage_95ppi,evaluation_cycles,horizon_basis
+PICM-L,MCMC posterior predictive,25.0,0,8,0.0,0.0,0.0,0.0,0.0,True,533.3333333333334,administrative run-out
+PICM-L,MCMC posterior predictive,50.0,0,8,0.0,0.0,0.0,0.125,0.0,True,533.3333333333334,administrative run-out
+PICM-L,MCMC posterior predictive,75.0,5,8,0.625,0.25,0.0,0.625,0.375,True,1066.6666666666667,administrative run-out
+PICM-L,MCMC posterior predictive,100.0,8,8,1.0,1.0,0.75,1.0,0.0,True,939.3333333333334,largest observed failure time
+PICM-L,MCMC posterior predictive,125.0,8,8,1.0,1.0,0.75,1.0,0.0,True,530.3333333333334,largest observed failure time
+PICM-L,MCMC posterior predictive,150.0,8,8,1.0,0.75,0.25,1.0,0.25,True,287.0,largest observed failure time

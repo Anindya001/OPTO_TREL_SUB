@@ -1,0 +1,335 @@
+{
+  "checks": [
+    {
+      "actual": 48,
+      "check": "device count",
+      "expected": 48,
+      "status": "PASS",
+      "tolerance": 0
+    },
+    {
+      "actual": 29,
+      "check": "failure count",
+      "expected": 29,
+      "status": "PASS",
+      "tolerance": 0
+    },
+    {
+      "actual": 19,
+      "check": "run-out count",
+      "expected": 19,
+      "status": "PASS",
+      "tolerance": 0
+    },
+    {
+      "actual": {
+        "25.0": 0,
+        "50.0": 0,
+        "75.0": 5,
+        "100.0": 8,
+        "125.0": 8,
+        "150.0": 8
+      },
+      "check": "failures by excursion",
+      "expected": {
+        "25": 0,
+        "50": 0,
+        "75": 5,
+        "100": 8,
+        "125": 8,
+        "150": 8
+      },
+      "status": "PASS",
+      "tolerance": 0
+    },
+    {
+      "actual": 2.9882481849016975,
+      "check": "Full likelihood: k",
+      "expected": 2.988247972624225,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 2.435848458239218,
+      "check": "Full likelihood: beta1",
+      "expected": 2.435846222548775,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 17.661965196988966,
+      "check": "Full likelihood: beta0",
+      "expected": 17.66195449833879,
+      "status": "PASS",
+      "tolerance": 5e-05
+    },
+    {
+      "actual": 8674.986511627405,
+      "check": "Full likelihood: B10(25)",
+      "expected": 8674.955665715283,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 2.9769286564712947,
+      "check": "Omit 25/50 run-outs: k",
+      "expected": 2.97692756776894,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 2.4282475692789567,
+      "check": "Omit 25/50 run-outs: beta1",
+      "expected": 2.42824629266459,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 17.625213904118496,
+      "check": "Omit 25/50 run-outs: beta0",
+      "expected": 17.6252078362453,
+      "status": "PASS",
+      "tolerance": 5e-05
+    },
+    {
+      "actual": 8544.564068765072,
+      "check": "Omit 25/50 run-outs: B10(25)",
+      "expected": 8544.544971121895,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 2.894370138528235,
+      "check": "Omit 75 run-outs: k",
+      "expected": 2.894371127560596,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 2.1325503625723514,
+      "check": "Omit 75 run-outs: beta1",
+      "expected": 2.1325517105022285,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 16.197324204202776,
+      "check": "Omit 75 run-outs: beta0",
+      "expected": 16.197330550362587,
+      "status": "PASS",
+      "tolerance": 5e-05
+    },
+    {
+      "actual": 5194.7889735185745,
+      "check": "Omit 75 run-outs: B10(25)",
+      "expected": 5194.800781385708,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 2.8655861468258585,
+      "check": "Omit all run-outs: k",
+      "expected": 2.86558503528517,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 2.1015526987819633,
+      "check": "Omit all run-outs: beta1",
+      "expected": 2.1015527890158,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 16.04808303084771,
+      "check": "Omit all run-outs: beta0",
+      "expected": 16.048083747136527,
+      "status": "PASS",
+      "tolerance": 5e-05
+    },
+    {
+      "actual": 4905.6260214865815,
+      "check": "Omit all run-outs: B10(25)",
+      "expected": 4905.626616155393,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 3.5275943988873073,
+      "check": "Only 100-150 groups: k",
+      "expected": 3.5275897200378448,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 3.066155491801531,
+      "check": "Only 100-150 groups: beta1",
+      "expected": 3.066158657244462,
+      "status": "PASS",
+      "tolerance": 2e-05
+    },
+    {
+      "actual": 20.733154230478032,
+      "check": "Only 100-150 groups: beta0",
+      "expected": 20.733169101174564,
+      "status": "PASS",
+      "tolerance": 5e-05
+    },
+    {
+      "actual": 27602.1206010251,
+      "check": "Only 100-150 groups: B10(25)",
+      "expected": 27602.226466439504,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 3822.284926746448,
+      "check": "profile B10(35): mle",
+      "expected": 3822.2742110283803,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 1762.0318368602016,
+      "check": "profile B10(35): lower",
+      "expected": 1762.0318368369753,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 8301.73674679023,
+      "check": "profile B10(35): upper",
+      "expected": 8301.736746903352,
+      "status": "PASS",
+      "tolerance": 0.2
+    },
+    {
+      "actual": 2.790994010402513,
+      "check": "shape at 100 C",
+      "expected": 2.790994010402513,
+      "status": "PASS",
+      "tolerance": 1e-05
+    },
+    {
+      "actual": 698.0313224130423,
+      "check": "scale at 100 C",
+      "expected": 698.0313224130423,
+      "status": "PASS",
+      "tolerance": 0.0001
+    },
+    {
+      "actual": 3.873269864909396,
+      "check": "shape at 125 C",
+      "expected": 3.873269864909396,
+      "status": "PASS",
+      "tolerance": 1e-05
+    },
+    {
+      "actual": 404.2861043965646,
+      "check": "scale at 125 C",
+      "expected": 404.2861043965646,
+      "status": "PASS",
+      "tolerance": 0.0001
+    },
+    {
+      "actual": 4.323342720879897,
+      "check": "shape at 150 C",
+      "expected": 4.323342720879897,
+      "status": "PASS",
+      "tolerance": 1e-05
+    },
+    {
+      "actual": 210.28949971977147,
+      "check": "scale at 150 C",
+      "expected": 210.28949971977147,
+      "status": "PASS",
+      "tolerance": 0.0001
+    },
+    {
+      "actual": 1.2919493576915215,
+      "check": "common-shape LRT",
+      "expected": 1.2919493612017732,
+      "status": "PASS",
+      "tolerance": 1e-05
+    },
+    {
+      "actual": 0.5241514137590968,
+      "check": "common-shape p-value",
+      "expected": 0.5241514128391451,
+      "status": "PASS",
+      "tolerance": 1e-06
+    },
+    {
+      "actual": 5653.084438842161,
+      "check": "B10(20) q025",
+      "expected": 5653.084438842161,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 15187.579093340786,
+      "check": "B10(20) median",
+      "expected": 15187.579093340786,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 40734.50794889012,
+      "check": "B10(20) q975",
+      "expected": 40734.50794889012,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 3642.569665158341,
+      "check": "B10(25) q025",
+      "expected": 3642.569665158341,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 8772.749516517077,
+      "check": "B10(25) median",
+      "expected": 8772.749516517077,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 20873.05511737338,
+      "check": "B10(25) q975",
+      "expected": 20873.05511737338,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 1895.8321171155274,
+      "check": "B10(35) q025",
+      "expected": 1895.8321171155276,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 3845.7524886277497,
+      "check": "B10(35) median",
+      "expected": 3845.7524886277497,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 7610.101222564411,
+      "check": "B10(35) q975",
+      "expected": 7610.101222564411,
+      "status": "PASS",
+      "tolerance": 1e-08
+    },
+    {
+      "actual": 0.17466666666666664,
+      "check": "PICM-C non-monotone fraction over 25-150 C",
+      "expected": 0.1747,
+      "status": "PASS",
+      "tolerance": 5e-05
+    }
+  ],
+  "failed": 0,
+  "passed": 45
+}

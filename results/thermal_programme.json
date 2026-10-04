@@ -1,0 +1,139 @@
+{
+  "source": "Specified set-points and timings; not measured temperature traces",
+  "lower_set_point_degC": 0,
+  "ramp_magnitude_degC_per_min": 2.5,
+  "profiles": [
+    {
+      "excursion_degC": 25,
+      "time_min": [
+        0,
+        10.0,
+        90,
+        100.0,
+        180
+      ],
+      "temperature_degC": [
+        0,
+        25,
+        25,
+        0,
+        0
+      ],
+      "heating_min": 10.0,
+      "hot_dwell_min": 80.0,
+      "cooling_min": 10.0,
+      "cold_dwell_min": 80.0,
+      "period_min": 180.0
+    },
+    {
+      "excursion_degC": 50,
+      "time_min": [
+        0,
+        20.0,
+        90,
+        110.0,
+        180
+      ],
+      "temperature_degC": [
+        0,
+        50,
+        50,
+        0,
+        0
+      ],
+      "heating_min": 20.0,
+      "hot_dwell_min": 70.0,
+      "cooling_min": 20.0,
+      "cold_dwell_min": 70.0,
+      "period_min": 180.0
+    },
+    {
+      "excursion_degC": 75,
+      "time_min": [
+        0,
+        30.0,
+        90,
+        120.0,
+        180
+      ],
+      "temperature_degC": [
+        0,
+        75,
+        75,
+        0,
+        0
+      ],
+      "heating_min": 30.0,
+      "hot_dwell_min": 60.0,
+      "cooling_min": 30.0,
+      "cold_dwell_min": 60.0,
+      "period_min": 180.0
+    },
+    {
+      "excursion_degC": 100,
+      "time_min": [
+        0,
+        40.0,
+        90,
+        130.0,
+        180
+      ],
+      "temperature_degC": [
+        0,
+        100,
+        100,
+        0,
+        0
+      ],
+      "heating_min": 40.0,
+      "hot_dwell_min": 50.0,
+      "cooling_min": 40.0,
+      "cold_dwell_min": 50.0,
+      "period_min": 180.0
+    },
+    {
+      "excursion_degC": 125,
+      "time_min": [
+        0,
+        50.0,
+        90,
+        140.0,
+        180
+      ],
+      "temperature_degC": [
+        0,
+        125,
+        125,
+        0,
+        0
+      ],
+      "heating_min": 50.0,
+      "hot_dwell_min": 40.0,
+      "cooling_min": 50.0,
+      "cold_dwell_min": 40.0,
+      "period_min": 180.0
+    },
+    {
+      "excursion_degC": 150,
+      "time_min": [
+        0,
+        60.0,
+        90,
+        150.0,
+        180
+      ],
+      "temperature_degC": [
+        0,
+        150,
+        150,
+        0,
+        0
+      ],
+      "heating_min": 60.0,
+      "hot_dwell_min": 30.0,
+      "cooling_min": 60.0,
+      "cold_dwell_min": 30.0,
+      "period_min": 180.0
+    }
+  ]
+}
